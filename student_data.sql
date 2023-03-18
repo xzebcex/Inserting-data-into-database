@@ -1,4 +1,4 @@
--- This sql code insert student data such as student_id, first_name, last_name, class_id into the table students.
+-- This sql query insert student data such as student_id, first_name, last_name, class_id into the table students.
 
 INSERT INTO students (student_id, first_name, last_name, class_id)
 VALUES (‘20731’, ‘Demo’, ‘Student’, ‘COMPSCI101’),
